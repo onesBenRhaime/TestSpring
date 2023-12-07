@@ -1,2 +1,5 @@
-package com.esprit.testspring.entities;public class Role {
+package com.esprit.testspring.entities;
+
+public  enum Role {
+    SCRUM_MASTER ,   DEVELOPER, CLIENT
 }
